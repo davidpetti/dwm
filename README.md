@@ -1,1 +1,1 @@
-# reqsi-dwm-git
+# My fork of DWM window manager by Suckless
